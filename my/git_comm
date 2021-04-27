@@ -18,8 +18,8 @@ git push -u origin master
 
 #Push to repo
 
-git commit -m "commit"
 git add --all
+git commit -m "commit"
 git push -u origin master
 
 
