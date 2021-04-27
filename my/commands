@@ -1,0 +1,8 @@
+service mongodb start
+cd /home/cryptorl
+pip install -e .
+
+python recorder.py
+python data_recorder/tests/test_simulator.py
+python experiment.py --action_repeats=100
+

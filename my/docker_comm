@@ -1,0 +1,6 @@
+docker build -t cryptorl:tf241 --rm .
+docker run -t -i --rm cryptorl:tf241 bash
+
+docker run -t -i -v /home/user/git/cryptorl_tf241:/home/cryptorl_tf241 --network="host" --rm cryptorl:tf241 bash /home/cryptorl_tf241/start.sh
+docker run -t -i -v /home/user/git/cryptorl_tf241:/home/cryptorl_tf241 --network="host" --memory-reservation="10g" --memory="11g" --memory-swap="70g" --memory-swappiness="100" --oom-kill-disable --rm cryptorl:tf241 bash /home/cryptorl_tf241/start.sh
+docker exec -it $(docker ps -f "ancestor=cryptorl:tf241" -q) bash

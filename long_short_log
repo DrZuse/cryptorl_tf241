@@ -1,0 +1,738 @@
+[2021-04-08T10:10:39] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 1 |side: long |price: 32478.609375                 |step: 1001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:39] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:39] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 2 |side: long |price: 32507.990234375                 |step: 1101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:39] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:39] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 3 |side: long |price: 32515.30078125                 |step: 1201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:39] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:39] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 4 |side: long |price: 32512.66015625                 |step: 1301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:39] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:39] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 5 |side: long |price: 32551.48046875                 |step: 1401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:39] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:39] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 6 |side: long |price: 32550.009765625                 |step: 1501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:39] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:39] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 7 |side: long |price: 32589.099609375                 |step: 1601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:39] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:39] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 8 |side: long |price: 32598.900390625                 |step: 1701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:39] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:39] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 9 |side: long |price: 32631.26953125                 |step: 1801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:39] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:39] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 10 |side: long |price: 32543.740234375                 |step: 1901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:39] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:39] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 11 |side: long |price: 32580.599609375                 |step: 2001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:39] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:39] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 12 |side: long |price: 32686.30078125                 |step: 2101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:39] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:39] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 13 |side: long |price: 32687.259765625                 |step: 2201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:39] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:39] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 14 |side: long |price: 32645.990234375                 |step: 2301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:39] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:39] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 15 |side: long |price: 32541.939453125                 |step: 2401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:39] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 16 |side: long |price: 32451.0                 |step: 2801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 17 |side: long |price: 32524.3203125                 |step: 2901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 18 |side: long |price: 32628.630859375                 |step: 3001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 19 |side: long |price: 32706.650390625                 |step: 3101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 20 |side: long |price: 32714.0703125                 |step: 3201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 21 |side: long |price: 32731.859375                 |step: 3301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 22 |side: long |price: 32697.9296875                 |step: 3401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 23 |side: long |price: 32725.69921875                 |step: 3501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 24 |side: short |price: 32716.689453125                 |step: 3601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 25 |side: short |price: 32783.48828125                 |step: 3701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 26 |side: short |price: 32722.119140625                 |step: 3801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 27 |side: short |price: 32623.23046875                 |step: 3901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 28 |side: short |price: 32525.849609375                 |step: 4001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 29 |side: short |price: 32580.240234375                 |step: 4101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 30 |side: short |price: 32561.9296875                 |step: 4201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 31 |side: short |price: 32322.619140625                 |step: 4501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 32 |side: short |price: 32368.0703125                 |step: 4601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 33 |side: short |price: 32415.51953125                 |step: 4701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 34 |side: short |price: 32403.099609375                 |step: 4801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 35 |side: short |price: 32372.0703125                 |step: 4901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:40] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:40] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 36 |side: long |price: 32411.76953125                 |step: 5001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 37 |side: long |price: 32429.720703125                 |step: 5101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 38 |side: long |price: 32500.0                 |step: 5201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 39 |side: long |price: 32515.919921875                 |step: 5301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 40 |side: long |price: 32549.0                 |step: 5401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 41 |side: long |price: 32678.0390625                 |step: 5601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 42 |side: long |price: 32683.33984375                 |step: 5701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 43 |side: long |price: 32724.310546875                 |step: 5801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 44 |side: long |price: 32667.7890625                 |step: 5901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 45 |side: long |price: 32634.349609375                 |step: 6001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 46 |side: long |price: 32722.23046875                 |step: 6101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 47 |side: long |price: 32905.28125                 |step: 6201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 48 |side: long |price: 32837.98046875                 |step: 6301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 49 |side: long |price: 32836.1015625                 |step: 6401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 50 |side: long |price: 32905.30078125                 |step: 6501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 51 |side: long |price: 32855.46875                 |step: 6601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 52 |side: short |price: 32857.23046875                 |step: 6701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 53 |side: short |price: 32736.400390625                 |step: 6801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 54 |side: short |price: 32714.220703125                 |step: 7001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 55 |side: short |price: 32717.619140625                 |step: 7101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 56 |side: short |price: 32732.650390625                 |step: 7201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 57 |side: short |price: 32690.0                 |step: 7301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 58 |side: short |price: 32814.8984375                 |step: 7401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 59 |side: short |price: 32800.05859375                 |step: 7501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 60 |side: short |price: 32841.12109375                 |step: 7601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:41] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:41] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 61 |side: short |price: 32786.421875                 |step: 7701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 62 |side: short |price: 32800.0                 |step: 7801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 63 |side: short |price: 32670.619140625                 |step: 7901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 64 |side: short |price: 32669.599609375                 |step: 8001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 65 |side: short |price: 32649.759765625                 |step: 8101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 66 |side: short |price: 32652.560546875                 |step: 8201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 67 |side: short |price: 32539.55078125                 |step: 8301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 68 |side: short |price: 32405.0703125                 |step: 8401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 69 |side: short |price: 32355.390625                 |step: 8601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 70 |side: short |price: 32229.189453125                 |step: 8701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 71 |side: short |price: 32208.66015625                 |step: 8801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 72 |side: short |price: 32285.75                 |step: 8901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 73 |side: short |price: 32301.810546875                 |step: 9001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 74 |side: short |price: 32369.05078125                 |step: 9101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 75 |side: short |price: 32287.529296875                 |step: 9201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 76 |side: short |price: 32329.08984375                 |step: 9301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 77 |side: short |price: 32333.650390625                 |step: 9401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 78 |side: short |price: 32290.400390625                 |step: 9501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 79 |side: long |price: 32280.94921875                 |step: 9601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 80 |side: long |price: 32368.48046875                 |step: 9701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 81 |side: long |price: 32271.490234375                 |step: 9801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 82 |side: long |price: 32105.5390625                 |step: 9901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 83 |side: long |price: 32226.98046875                 |step: 10001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 84 |side: long |price: 32210.4609375                 |step: 10101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 85 |side: long |price: 32277.7109375                 |step: 10201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:42] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 86 |side: long |price: 32350.130859375                 |step: 10301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:42] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 87 |side: long |price: 32339.6796875                 |step: 10401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 88 |side: long |price: 32327.16015625                 |step: 10501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 89 |side: long |price: 32297.330078125                 |step: 10601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 90 |side: long |price: 32348.279296875                 |step: 10701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 91 |side: long |price: 32296.150390625                 |step: 10801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 92 |side: long |price: 32256.189453125                 |step: 11001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 93 |side: long |price: 32400.720703125                 |step: 11101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 94 |side: long |price: 32315.140625                 |step: 11201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 95 |side: long |price: 32317.76953125                 |step: 11301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 96 |side: long |price: 32438.240234375                 |step: 11401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 97 |side: long |price: 32351.1796875                 |step: 11501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 98 |side: long |price: 32336.080078125                 |step: 11601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 99 |side: long |price: 32381.970703125                 |step: 11701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 100 |side: long |price: 32422.689453125                 |step: 11801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 101 |side: long |price: 32426.75                 |step: 11901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 102 |side: long |price: 32481.560546875                 |step: 12001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 103 |side: long |price: 32492.73046875                 |step: 12101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 104 |side: long |price: 32498.650390625                 |step: 12201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 105 |side: long |price: 32469.220703125                 |step: 12301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 106 |side: long |price: 32468.0                 |step: 12401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 107 |side: long |price: 32424.060546875                 |step: 12501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 108 |side: long |price: 32425.6796875                 |step: 12601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 109 |side: long |price: 32404.189453125                 |step: 12701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 110 |side: long |price: 32446.0703125                 |step: 12801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:43] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 111 |side: long |price: 32452.5                 |step: 12901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:43] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 112 |side: long |price: 32445.2890625                 |step: 13101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 113 |side: long |price: 32549.98046875                 |step: 13301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 114 |side: long |price: 32560.509765625                 |step: 13401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 115 |side: long |price: 32536.16015625                 |step: 13501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 116 |side: long |price: 32572.5                 |step: 13601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 117 |side: short |price: 32515.259765625                 |step: 13701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 118 |side: short |price: 32530.470703125                 |step: 13801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 119 |side: short |price: 32463.33984375                 |step: 13901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 120 |side: short |price: 32443.509765625                 |step: 14101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 121 |side: short |price: 32400.0                 |step: 14201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 122 |side: short |price: 32390.869140625                 |step: 14301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 123 |side: long |price: 32385.369140625                 |step: 14401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 124 |side: long |price: 32415.669921875                 |step: 14501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 125 |side: long |price: 32417.330078125                 |step: 14601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 126 |side: long |price: 32491.439453125                 |step: 14701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 127 |side: long |price: 32417.5703125                 |step: 14801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 128 |side: long |price: 32407.80078125                 |step: 14901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 129 |side: long |price: 32440.509765625                 |step: 15001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 130 |side: long |price: 32541.01953125                 |step: 15201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 131 |side: long |price: 32613.029296875                 |step: 15301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:44] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 132 |side: long |price: 32794.4296875                 |step: 15501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:44] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 133 |side: long |price: 32825.48046875                 |step: 15601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 134 |side: long |price: 32803.7890625                 |step: 15701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 135 |side: long |price: 32755.009765625                 |step: 15801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 136 |side: long |price: 32777.75                 |step: 15901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 137 |side: short |price: 32754.900390625                 |step: 16001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 138 |side: short |price: 32760.009765625                 |step: 16101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 139 |side: short |price: 32747.490234375                 |step: 16201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 140 |side: short |price: 32805.87109375                 |step: 16301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 141 |side: short |price: 32757.009765625                 |step: 16401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 142 |side: short |price: 32758.4296875                 |step: 16501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 143 |side: short |price: 32771.01171875                 |step: 16601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 144 |side: short |price: 32758.109375                 |step: 16701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 145 |side: short |price: 32685.939453125                 |step: 16801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 146 |side: short |price: 32647.259765625                 |step: 16901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 147 |side: short |price: 32595.9296875                 |step: 17101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 148 |side: short |price: 32620.419921875                 |step: 17201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 149 |side: short |price: 32625.2109375                 |step: 17401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 150 |side: short |price: 32656.580078125                 |step: 17501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 151 |side: short |price: 32715.66015625                 |step: 17601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 152 |side: short |price: 32615.0703125                 |step: 17701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 153 |side: short |price: 32609.8203125                 |step: 18001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 154 |side: short |price: 32591.4609375                 |step: 18101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:45] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 155 |side: short |price: 32603.970703125                 |step: 18401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 156 |side: short |price: 32577.9296875                 |step: 18501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 157 |side: short |price: 32547.580078125                 |step: 18601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 158 |side: short |price: 32418.80078125                 |step: 18701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 159 |side: short |price: 32402.94921875                 |step: 18801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 160 |side: short |price: 32419.310546875                 |step: 18901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 161 |side: short |price: 32398.849609375                 |step: 19001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 162 |side: short |price: 32382.609375                 |step: 19101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 163 |side: short |price: 32330.919921875                 |step: 19201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 164 |side: long |price: 32368.9296875                 |step: 19301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 165 |side: long |price: 32411.080078125                 |step: 19401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 166 |side: long |price: 32377.359375                 |step: 19501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 167 |side: long |price: 32410.25                 |step: 19601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 168 |side: long |price: 32433.869140625                 |step: 19701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 169 |side: long |price: 32445.5                 |step: 19801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 170 |side: long |price: 32527.51953125                 |step: 20001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 171 |side: long |price: 32485.9609375                 |step: 20101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 172 |side: long |price: 32819.48046875                 |step: 20401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:46] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 173 |side: long |price: 33172.87890625                 |step: 20801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 174 |side: long |price: 33276.91015625                 |step: 20901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 175 |side: long |price: 33254.41015625                 |step: 21001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 176 |side: long |price: 33277.25                 |step: 21101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 177 |side: long |price: 33224.98828125                 |step: 21201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 178 |side: long |price: 33231.140625                 |step: 21301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 179 |side: long |price: 33280.30078125                 |step: 21401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 180 |side: long |price: 33273.03125                 |step: 21501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 181 |side: long |price: 33382.23828125                 |step: 21601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 182 |side: long |price: 33406.30078125                 |step: 21701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 183 |side: long |price: 33283.73828125                 |step: 21801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 184 |side: long |price: 33284.25                 |step: 21901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 185 |side: long |price: 33280.6015625                 |step: 22001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 186 |side: short |price: 33326.9296875                 |step: 22101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 187 |side: short |price: 33312.48828125                 |step: 22201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 188 |side: short |price: 33252.3515625                 |step: 22301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 189 |side: short |price: 33267.30859375                 |step: 22401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 190 |side: short |price: 33254.46875                 |step: 22501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 191 |side: short |price: 33277.03125                 |step: 22601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 192 |side: short |price: 33288.44921875                 |step: 22701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 193 |side: short |price: 33256.828125                 |step: 22801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 194 |side: short |price: 33261.640625                 |step: 22901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 195 |side: short |price: 33269.23828125                 |step: 23001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 196 |side: short |price: 33237.921875                 |step: 23101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 197 |side: short |price: 33111.19921875                 |step: 23201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 198 |side: short |price: 33136.23046875                 |step: 23301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:47] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:47] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 199 |side: short |price: 33157.80859375                 |step: 23401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 200 |side: short |price: 33159.98828125                 |step: 23501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 201 |side: short |price: 33138.98046875                 |step: 23601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 202 |side: short |price: 33110.671875                 |step: 23701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 203 |side: short |price: 33124.44140625                 |step: 23901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 204 |side: short |price: 33053.48828125                 |step: 24001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 205 |side: short |price: 33107.6484375                 |step: 24101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 206 |side: short |price: 33099.98046875                 |step: 24201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 207 |side: short |price: 33059.26953125                 |step: 24301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 208 |side: short |price: 33064.7890625                 |step: 24401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 209 |side: short |price: 33185.828125                 |step: 24501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 210 |side: short |price: 33150.3984375                 |step: 24601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 211 |side: short |price: 33121.87109375                 |step: 24701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 212 |side: short |price: 33157.1484375                 |step: 24801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 213 |side: short |price: 33138.3984375                 |step: 24901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 214 |side: short |price: 33078.05078125                 |step: 25001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 215 |side: short |price: 32920.80078125                 |step: 25101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 216 |side: short |price: 32867.421875                 |step: 25201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 217 |side: short |price: 32947.109375                 |step: 25301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 218 |side: short |price: 32886.26171875                 |step: 25501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 219 |side: short |price: 32812.37890625                 |step: 25601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 220 |side: short |price: 32786.16015625                 |step: 25701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 221 |side: short |price: 32898.828125                 |step: 25801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:48] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 222 |side: short |price: 32927.28125                 |step: 26001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 223 |side: long |price: 32916.30078125                 |step: 26101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 224 |side: long |price: 33009.5390625                 |step: 26201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 225 |side: long |price: 32960.87890625                 |step: 26301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 226 |side: long |price: 32949.44140625                 |step: 26401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 227 |side: long |price: 32951.2890625                 |step: 26501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 228 |side: long |price: 32974.51171875                 |step: 26601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 229 |side: long |price: 33012.30078125                 |step: 26801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 230 |side: long |price: 33176.87109375                 |step: 26901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 231 |side: short |price: 33103.7890625                 |step: 27001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 232 |side: short |price: 33049.859375                 |step: 27101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 233 |side: short |price: 33011.5390625                 |step: 27201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 234 |side: short |price: 32928.73828125                 |step: 27301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 235 |side: short |price: 32856.8515625                 |step: 27401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 236 |side: short |price: 32830.25                 |step: 27501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 237 |side: short |price: 32800.01171875                 |step: 27601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 238 |side: short |price: 32784.21875                 |step: 27701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 239 |side: short |price: 32780.01171875                 |step: 27801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 240 |side: short |price: 32823.94140625                 |step: 27901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 241 |side: long |price: 32790.98828125                 |step: 28001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 242 |side: long |price: 32865.890625                 |step: 28201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 243 |side: short |price: 32867.609375                 |step: 28301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 244 |side: short |price: 32885.58984375                 |step: 28401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 245 |side: short |price: 32875.0                 |step: 28501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:49] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:49] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 246 |side: short |price: 32883.2109375                 |step: 28601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 247 |side: short |price: 32917.0                 |step: 28701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 248 |side: short |price: 32949.44140625                 |step: 28801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 249 |side: short |price: 32874.1796875                 |step: 28901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 250 |side: short |price: 32698.490234375                 |step: 29101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 251 |side: short |price: 32673.98046875                 |step: 29201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 252 |side: short |price: 32697.890625                 |step: 29301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 253 |side: short |price: 32773.1015625                 |step: 29401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 254 |side: short |price: 32812.12109375                 |step: 29501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 255 |side: long |price: 32813.01953125                 |step: 29601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 256 |side: long |price: 32817.76953125                 |step: 29701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 257 |side: long |price: 32887.37109375                 |step: 29801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 258 |side: long |price: 32830.859375                 |step: 29901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 259 |side: long |price: 32900.03125                 |step: 30101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 260 |side: long |price: 32836.640625                 |step: 30201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 261 |side: long |price: 32828.30859375                 |step: 30301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 262 |side: long |price: 32986.9296875                 |step: 30501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 263 |side: long |price: 32957.9609375                 |step: 30601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 264 |side: long |price: 32952.4296875                 |step: 30701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 265 |side: short |price: 32941.2890625                 |step: 30801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 266 |side: short |price: 32999.05078125                 |step: 30901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 267 |side: short |price: 32935.0                 |step: 31001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:50] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 268 |side: short |price: 32894.37890625                 |step: 31101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:50] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 269 |side: short |price: 32813.62109375                 |step: 31301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 270 |side: short |price: 32872.80078125                 |step: 31501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 271 |side: short |price: 32841.12109375                 |step: 31601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 272 |side: short |price: 32813.76953125                 |step: 31701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 273 |side: short |price: 32741.220703125                 |step: 31801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 274 |side: short |price: 32690.66015625                 |step: 31901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 275 |side: long |price: 32693.9609375                 |step: 32001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 276 |side: long |price: 32731.41015625                 |step: 32101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 277 |side: long |price: 32822.87890625                 |step: 32201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 278 |side: long |price: 32980.08984375                 |step: 32401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 279 |side: long |price: 33046.30078125                 |step: 32501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 280 |side: long |price: 33082.25                 |step: 32601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 281 |side: short |price: 33042.01171875                 |step: 32701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 282 |side: short |price: 32954.5703125                 |step: 32801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 283 |side: short |price: 33028.5                 |step: 32901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 284 |side: short |price: 32942.51953125                 |step: 33001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 285 |side: short |price: 32890.0390625                 |step: 33101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 286 |side: short |price: 32883.87109375                 |step: 33201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 287 |side: short |price: 32849.7890625                 |step: 33301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 288 |side: short |price: 32785.3203125                 |step: 33401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 289 |side: short |price: 32986.71875                 |step: 33601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:51] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:51] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 290 |side: short |price: 32893.4296875                 |step: 33701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 291 |side: short |price: 32720.0                 |step: 34101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 292 |side: short |price: 32561.419921875                 |step: 34201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 293 |side: short |price: 32588.5                 |step: 34301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 294 |side: short |price: 32618.859375                 |step: 34701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 295 |side: short |price: 32646.150390625                 |step: 34801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 296 |side: short |price: 32617.80078125                 |step: 34901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 297 |side: short |price: 32635.44921875                 |step: 35101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 298 |side: short |price: 32680.26953125                 |step: 35201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 299 |side: short |price: 32656.66015625                 |step: 35401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 300 |side: short |price: 32525.779296875                 |step: 35601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 301 |side: short |price: 32779.48046875                 |step: 35701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 302 |side: short |price: 32629.779296875                 |step: 35801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 303 |side: short |price: 32431.83984375                 |step: 35901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 304 |side: short |price: 32484.400390625                 |step: 36001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:52] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 305 |side: short |price: 32385.4296875                 |step: 36201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 306 |side: short |price: 32355.970703125                 |step: 36301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 307 |side: short |price: 32377.119140625                 |step: 36401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 308 |side: short |price: 32366.4609375                 |step: 36501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 309 |side: short |price: 32370.279296875                 |step: 36601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 310 |side: short |price: 32443.01953125                 |step: 36701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 311 |side: short |price: 32421.30078125                 |step: 36801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 312 |side: short |price: 32449.8203125                 |step: 37001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 313 |side: short |price: 32422.6796875                 |step: 37101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 314 |side: short |price: 32371.0703125                 |step: 37301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 315 |side: short |price: 32370.609375                 |step: 37501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 316 |side: short |price: 32284.140625                 |step: 37601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 317 |side: short |price: 32325.16015625                 |step: 37701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 318 |side: long |price: 32318.4296875                 |step: 37801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 319 |side: long |price: 32315.19921875                 |step: 37901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 320 |side: long |price: 32307.01953125                 |step: 38001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 321 |side: long |price: 32360.55078125                 |step: 38101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 322 |side: short |price: 32366.69921875                 |step: 38201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 323 |side: short |price: 32295.009765625                 |step: 38301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 324 |side: long |price: 32342.98046875                 |step: 38401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 325 |side: long |price: 32251.3203125                 |step: 38501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 326 |side: long |price: 32331.48046875                 |step: 38601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 327 |side: long |price: 32306.0703125                 |step: 38701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:53] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 328 |side: long |price: 32324.650390625                 |step: 38801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:53] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:54] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:54] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 329 |side: long |price: 32363.939453125                 |step: 39001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:54] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:54] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 330 |side: long |price: 32439.6796875                 |step: 39101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:54] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:54] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 331 |side: long |price: 32386.41015625                 |step: 39201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:54] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:54] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:54] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 332 |side: long |price: 32377.6796875                 |step: 39401 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:54] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:54] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 333 |side: long |price: 32380.2109375                 |step: 39501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:54] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:54] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 334 |side: long |price: 32368.2109375                 |step: 39601 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:54] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:54] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 335 |side: long |price: 32356.9609375                 |step: 39701 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:54] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:54] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 336 |side: long |price: 32424.900390625                 |step: 39801 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:54] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:54] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 337 |side: short |price: 32404.599609375                 |step: 39901 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:54] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:54] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 338 |side: short |price: 32508.990234375                 |step: 40001 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:54] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:54] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 339 |side: short |price: 32499.759765625                 |step: 40101 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:54] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:54] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 340 |side: short |price: 32414.73046875                 |step: 40201 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:54] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:54] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 341 |side: short |price: 32307.390625                 |step: 40301 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:54] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:54] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)
+[2021-04-08T10:10:54] INFO [order.py.92.140176633124672.__init__:59] ccy: BTC-USD #id: 342 |side: short |price: 32275.0                 |step: 40501 |metrics: OrderMetrics: [ drawdown_max=0.0 | upside_max=0.0 | steps_in_position=0 ] |queue_ahead" 0.0
+[2021-04-08T10:10:54] INFO [base_environment.py.92.140176633124672._get_observation:544] observation.shape: (100, 121)

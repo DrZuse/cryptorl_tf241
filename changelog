@@ -1,0 +1,43 @@
+version='0.0.2'
+
+    recorder.py:
+        - выпилен bitfinex
+    
+    data_recorder/database/simulator.py:
+        - выпилен bitfinex
+    
+    configurations.py:
+        - BASKET теперь str
+        
+    data_recorder/bitfinex_connector:
+        - удалена вся директория
+        
+    data_recorder/__init__.py:
+        - выпилен весь импорт
+    
+
+version='0.0.1'
+
+    setup.py:
+        - удалена установка dependencies
+
+    configurations.py:
+        - модифицирован logging.basicConfig
+        - добавлен параметр CCY
+        - комиссии выставлены в 0
+
+    /data_recorder/tests/test_simulator.py:
+        - добавлена проверка RECORD_DATA
+        - test_extract_features установлен по дефолту
+        - start_date, end_date
+
+    /agent/dqn.py:
+        - tensorflow 2.4.1 on CPU
+        - изменен порядок features_shape
+        - изменен data_format 'channels_first' -> 'channels_last'  # for NHWC tensor format (1, 100, 121, 1)
+        - импорт кастомизированной либы my_rl
+        - дефолтная нейросеть теперь nn_type='cnn'
+        - дефолтное колличество эпизодов nb_episodes=1
+
+    /my_rl/agents/dqn.py:
+        - batch = np.moveaxis(batch, 1, -1) # for NHWC tensor format (1, 100, 121, 1) for tensorflow 2.4.1 on CPU 

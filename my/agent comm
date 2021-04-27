@@ -1,0 +1,19 @@
+python experiment.py --visualize=True --symbol='BTC-USD' --testing_file='binance-futures_book_snapshot_25_2020-10-01_BTCUSDT.csv.gz'  --fitting_file='binance-futures_book_snapshot_25_2020-10-01_BTCUSDT.csv.gz'
+
+python experiment.py --visualize=True --action_repeats=100 --id='market-maker-v0'
+
+
+python experiment_test.py --load_weights=True --testing_file='BTC-USD_2021-01-23.csv.xz' --fitting_file='BTC-USD_2021-01-23.csv.xz' --action_repeats=1
+python experiment_test.py --load_weights=True --symbol='BTC-USD' --testing_file='BTC-USD_2021-01-23.csv.xz' --fitting_file='BTC-USD_2021-01-23.csv.xz' --action_repeats=1 --gamma=0
+python experiment_test.py --load_weights=True --symbol='BTC-USD' --testing_file='BTC-USD_2021-01-22.csv.xz' --fitting_file='BTC-USD_2021-01-22.csv.xz' --action_repeats=1 --gamma=0
+
+python experiment_test.py --load_weights=True --action_repeats=1 --gamma=0
+python experiment_test.py --action_repeats=100
+
+python experiment.py --symbol='BTC-USD' --testing_file='1_BTC-USD_2021-01-22.csv.xz'  --fitting_file='1_BTC-USD_2021-01-22.csv.xz' --action_repeats=100
+
+python experiment.py --symbol='BTC-USD' --testing_file='BTC-USD_2021-01-22.csv.xz'  --fitting_file='BTC-USD_2021-01-23.csv.xz' --action_repeats=100
+
+
+
+python gym_trading/tests/test_trend_following.py
