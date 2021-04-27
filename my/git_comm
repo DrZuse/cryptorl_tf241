@@ -25,4 +25,11 @@ git push -u origin master
 
 
 ##Create a new tag
-git tag -a v1.4 -m "my version 1.4"
+git tag -a 0.02 -m "my version 0.0.2"
+git push origin --tags
+
+
+
+##Delete tag
+
+git tag -d <tag_name>
