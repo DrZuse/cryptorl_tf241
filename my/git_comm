@@ -5,14 +5,14 @@ git init
 git add README.md
 git commit -m "first commit"
 git remote add origin git@github.com:DrZuse/cryptorl_tf241.git
-git push -u origin main
+git push -u origin master
 
 
 
 ##Push an existing repository from the command line
 
 git remote add origin git@github.com:DrZuse/cryptorl_tf241.git
-git push -u origin main
+git push -u origin master
 
 
 
@@ -20,7 +20,7 @@ git push -u origin main
 
 git commit -m "commit"
 git add --all
-git push -u origin main
+git push -u origin master
 
 
 
